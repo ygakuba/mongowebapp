@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+h2{
+	color: orange;
+	font-size: 2em;
+	font-weight: bold;
+	border-bottom: 1px solid orange;
+}
+
+td, th{
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+th{
+	color: orange;
+}
+
+th.right, .number{
+	text-align: right;
+}
+
+th.left{
+	text-align: left;
+}
+
+#container{
+	width: 90%;
+	margin: 5px auto 5px auto;
+}
+
+#footer-bar{
+	border: 1px solid orange;
+}
+
+table{
+	width: 95%;
+}
+
+a{
+	text-decoration: none;
+	color: orange;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: orange;
+}
